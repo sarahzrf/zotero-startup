@@ -1,0 +1,5 @@
+content blah chrome/content/blah/
+component {YOUR-UUID-HERE} components/blah.js
+contract @example.com/Blah;1 {YOUR-UUID-HERE}
+category profile-after-change @example.com/Blah;1 @example.com/Blah;1
+
